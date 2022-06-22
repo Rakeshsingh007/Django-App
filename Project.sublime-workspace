@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"c",
+				"created"
+			],
+			[
+				"p",
+				"Profile"
+			],
+			[
+				"use",
+				"user_view"
+			],
+			[
+				"form",
+				"form-group"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/appenv/src/App"
+	],
+	"file_history":
+	[
+		"/F/appenv/src/App/App/settings.py",
+		"/F/appenv/src/App/users/models.py",
+		"/F/appenv/src/App/users/templates/users/password_reset_complete.html",
+		"/F/appenv/src/App/users/templates/users/password_reset_done.html",
+		"/F/appenv/src/App/Procfile",
+		"/F/appenv/src/App/requirements.txt",
+		"/F/appenv/src/App/.gitignore",
+		"/F/appenv/src/App/blog/views.py",
+		"/F/appenv/src/App/App/urls.py",
+		"/F/appenv/src/App/users/templates/users/password_reset.html",
+		"/F/appenv/src/App/users/templates/users/login.html",
+		"/F/appenv/src/App/blog/urls.py",
+		"/F/appenv/src/App/users/templates/users/password_reset_confirm.html",
+		"/F/appenv/src/App/blog/templates/blog/post_detail.html",
+		"/F/appenv/src/App/blog/templates/blog/user_posts.html",
+		"/F/appenv/src/App/blog/templates/blog/home.html",
+		"/F/appenv/src/App/users/templates/users/register.html",
+		"/F/appenv/src/App/users/templates/users/logout.html",
+		"/F/appenv/src/App/blog/templates/blog/base.html",
+		"/F/appenv/src/App/blog/models.py",
+		"/F/appenv/src/App/blog/templates/blog/post_confirm_delete.html",
+		"/F/appenv/src/App/blog/templates/blog/post_form.html",
+		"/F/appenv/src/App/users/signals.py",
+		"/F/appenv/src/App/users/views.py",
+		"/F/appenv/src/App/users/templates/users/profile.html",
+		"/F/appenv/src/App/users/forms.py",
+		"/F/appenv/src/App/users/apps.py",
+		"/F/appenv/src/App/users/admin.py",
+		"/F/appenv/src/App/users/templates/users/logout",
+		"/F/appenv/src/App/users/tests.py",
+		"/F/appenv/src/App/blog/admin.py",
+		"/C/Users/rakesh/Desktop/App/Blog/templates/Blog/base.html",
+		"/F/appenv/src/App/blog/static/blog/main.css",
+		"/F/appenv/src/App/blog/templates/blog/about.html",
+		"/C/Users/rakesh/Desktop/App/App/settings.py",
+		"/C/Users/rakesh/Desktop/App/manage.py",
+		"/F/appenv/src/App/Blog/static/Blog/main.css",
+		"/F/appenv/src/App/Blog/templates/blog/about.html",
+		"/F/appenv/src/App/Blog/templates/blog/base.html",
+		"/F/appenv/src/App/Blog/templates/blog/home.html",
+		"/F/appenv/src/App/Blog/apps.py",
+		"/F/appenv/src/App/Blog/urls.py",
+		"/F/appenv/src/App/Blog/views.py",
+		"/F/appenv/src/App/Blog/templates/Blog/base.html",
+		"/F/appenv/src/App/static/Blog/main.css",
+		"/C/Users/rakesh/Downloads/code_snippets-master/code_snippets-master/Django_Blog/snippets/main.html",
+		"/C/Users/rakesh/Downloads/code_snippets-master/code_snippets-master/Django_Blog/snippets/navigation.html",
+		"/C/Users/rakesh/Downloads/code_snippets-master/code_snippets-master/Django_Blog/snippets/main.css",
+		"/F/appenv/src/App/Blog/templates/Blog/about.html",
+		"/F/appenv/src/App/Blog/templates/Blog/home.html",
+		"/C/Users/rakesh/Anaconda3/Scripts/django-admin.py",
+		"/F/django/App/admin.py",
+		"/C/Users/rakesh/Anaconda3/Lib/site-packages/pip/_internal/commands/freeze.py",
+		"/F/django/Project/src/products/admin.py",
+		"/F/django/Project/src/Project/settings.py",
+		"/F/django/Project/src/products/migrations/0002_products_summery2.py",
+		"/C/Program Files (x86)/pgAdmin 4/v4/web/pgAdmin4.py",
+		"/F/django/Project/src/manage.py",
+		"/C/Users/rakesh/Anaconda3/Lib/site-packages/django/db/backends/sqlite3/schema.py",
+		"/C/Users/rakesh/Anaconda3/Lib/site-packages/django/db/backends/sqlite3/base.py",
+		"/F/django/Project/src/products/models.py",
+		"/F/django/Project/src/Trydjango.sublime-project",
+		"/C/Users/rakesh/Downloads/MyProject/pcode.py",
+		"/C/Users/rakesh/Downloads/MyProject/README.md",
+		"/C/Users/rakesh/Downloads/MyProject/lost.py",
+		"/C/Users/rakesh/Downloads/MyProject/log.txt",
+		"/C/Users/rakesh/Downloads/MyProject/test/test11",
+		"/C/Users/rakesh/Downloads/MyProject/.gitignore",
+		"/C/Users/rakesh/Downloads/MyProject/test2/test22",
+		"/C/Users/rakesh/Downloads/MyProject/pcode2.py",
+		"/C/Users/rakesh/Downloads/MyProject/test/test22",
+		"/C/Users/rakesh/Downloads/MyProject/test2/test11",
+		"/C/Users/rakesh/Desktop/calender.py",
+		"/C/Users/rakesh/Anaconda3/Lib/calendar.py",
+		"/C/Users/rakesh/Desktop/Python files/examplie.py",
+		"/C/Users/rakesh/Downloads/Complete-Python-3-Bootcamp-master/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
